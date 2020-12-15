@@ -1,0 +1,5 @@
+Name(s): Samantha Xiong - xion1884
+How to Compile: Type "javac -Xlint FractalDrawer.java" into command line
+How to Run: Type "Java FractalDrawer" into command line, then type in which fractal you would like to make
+Assumptions: n/a
+Bugs/Defects: n/a
